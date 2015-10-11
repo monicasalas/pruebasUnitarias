@@ -94,7 +94,7 @@ def set_product58(xs, ys):
     >>> set_product58({1,2,3},{3,4,5})
     set([3, 4, 5, 6, 8, 10, 12, 15])
     """
-    return 
+    return set([ x*y for ]) 
 
 
 def intersection(Ss, Ts):
